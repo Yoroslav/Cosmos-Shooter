@@ -4,6 +4,6 @@ Cosmic Defender is an exhilarating arcade game where you'll soar into space to b
 
 Controls:
 
-W and S: Move Forward and Backward
-A and D: Rotate
-Space: Shoot
+W and S: Move Forward and Backward.
+A and D: Rotate.
+Space: Shoot.
